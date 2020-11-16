@@ -1,0 +1,60 @@
+img {
+	width: 300px;
+	margin-left: 65%;
+	margin-top: 30px;
+	margin-right: 100px;
+	position: fixed;
+}
+
+p#footer1 {
+	position:  fixed; 
+	bottom: 10px;
+	right: 5%;
+}
+
+pre,p#footer1{
+	font-family: fantasy;
+}
+a {
+	color: white;
+	font-size: 1.3em;
+}
+
+div {
+	margin-left:5%;
+}
+
+
+button.button8 {
+
+    font-weight: bold;
+    padding: 10px 30px;
+    color: white;
+    border-style: none;
+    box-shadow: 2px 2px 3px 1px #666;
+    text-shadow: 1px 1px 2px #000;
+    background: -webkit-gradient(linear, left bottom, left top, from(black), color-stop(0.5, GoldenRod), to(black));
+    border-radius: 5px;
+	font-family: Osaka;
+
+}
+button.button8:hover {
+    opacity: 0.9;
+}
+
+
+
+
+
+.text-grad {
+  background: linear-gradient(110deg, GoldenRod, white 45%, GoldenRod);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255,255,255,0.0);
+  color: #ff0000;
+}
+
+span#nasu {
+	font-size: 2em;
+	position: relative;
+	right: -150px;
+}
